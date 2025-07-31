@@ -1,0 +1,17 @@
+<pedido>
+    <nome>Lincoln</nome>
+    <valor_total>3500</valor_total>
+
+    <itens>
+        <produto>
+            <nome>Computador</nome>
+            <valor>3000</valor>
+            <quantidade>1</quantidade>
+        </produto>
+         <produto>
+            <nome>Tablet</nome>
+            <valor>750</valor>
+            <quantidade>2</quantidade>
+        </produto>
+    </itens>
+</pedido>

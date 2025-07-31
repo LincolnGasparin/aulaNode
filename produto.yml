@@ -1,0 +1,10 @@
+pedido:
+  nome:Lincoln
+  valor_total:3500
+    produto:
+      -nome:Computador
+       valor:2000
+       quantidade:1
+      -nome:Tablet
+       valor:750
+       quantidade:2

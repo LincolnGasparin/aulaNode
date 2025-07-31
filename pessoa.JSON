@@ -1,0 +1,16 @@
+{
+    "nome": "Lincoln",
+    "valor_total": 3500,
+    "itens":[
+        {
+            "produto" : "Computador",
+            "valor": 2000 ,
+            "quantidade" : 1
+        },
+        {
+            "produto": "Tablet",
+            "valor": 750,
+            "quantidade" : 2
+        }
+    ]
+}
